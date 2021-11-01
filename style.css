@@ -1,0 +1,79 @@
+.header {
+    background-color: rgb(32 54 104);  
+    text-align: center;
+    padding: 12px;
+    font-size: 25px;
+    box-sizing: border-box;
+}
+.a {
+    color: whitesmoke;
+    text-decoration: none;
+    margin: 14px;
+}
+.div {
+    font-size: 28px;
+    text-align: center;
+}
+.box    {
+    height: 120px;
+    width: 120px;
+    background-color: skyblue;
+    border: 8px solid rgb(58, 120, 161);
+    outline: 4px solid darkblue;
+    box-shadow: 0px 0px 0px 12px rgb(138, 226, 56);
+    box-sizing: border-box;
+    margin: 45px auto;
+}
+.circle {
+    height: 20px;
+    width: 20px;
+    background-color: skyblue;
+    display: inline-block;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+.small-circle {
+    display: inline-block;
+    margin: 0px 08px;
+}
+.big-circle {
+    text-align: center;
+}
+.circle2 {
+    background-color: rgb(58, 120, 161);
+}
+.circle3 {
+    background-color: darkblue;
+}
+.circle4 {
+    background-color: rgb(138, 226, 56);
+}
+.span {
+    margin-right: 6px;
+}
+.hr {
+    margin: 40px 415px;
+}
+.container {
+    height: 100px;
+    width: 165px;
+    background-color: rgb(194, 192, 192);
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.small-container {
+    display: inline-block;
+    margin: 10px;
+}
+.big-container {
+    text-align: center;
+    outline: 2px solid black;
+    margin: 30px 465px;
+}
+.small-container1 {
+    display: inline-block;
+    margin: 10px;
+    outline: 2px solid black;
+    box-sizing: border-box;
+}
