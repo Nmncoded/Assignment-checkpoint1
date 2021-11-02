@@ -83,23 +83,3 @@
     box-sizing: border-box;
     font-size: 0px;
 }
-
-.container-blog {
-    height: 400px;
-    width: 500px;
-    background-color: rgb(194, 192, 192);
-    display: inline-block;
-    box-sizing: border-box;
-}
-
-
-.small-container1-blog {
-        display: block
-        margin: 10px;
-        outline: 2px solid black;
-}
-.big-container-blog {
-    text-align: center;
-    outline: 2px solid black;
-    margin: 40px 465px;
-}
